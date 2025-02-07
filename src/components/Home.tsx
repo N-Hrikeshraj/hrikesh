@@ -95,7 +95,7 @@ const Home = () => {
                   className="relative rounded-3xl overflow-hidden aspect-[4/5] bg-gradient-to-tr from-blue-500/10 to-purple-500/10 p-1"
                 >
                   <img
-                    src="https://raw.githubusercontent.com/N-Hrikeshraj/hrikesh/blob/main/src/assets/images/profile1.JPG"
+                    src="https://github.com/N-Hrikeshraj/hrikesh/blob/main/src/assets/images/profile1.JPG?raw=True"
                     alt="Hrikeshraj Nadaraj"
                     className="w-full h-full object-cover rounded-2xl"
                   />
