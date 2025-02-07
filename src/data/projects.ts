@@ -100,7 +100,7 @@ export const projects: Project[] = [
     solution: 'An in-depth medical literature review was done to understand current practice and developments in stroke rehabilitation. I interviewed medical professionals and stroke patients to determine points for improvement in the current rehabilitation process. A cross-reference was done to determine the target areas and project goals.',
     outcome: 'The finalised glove tracked and provided real time quantitative data regarding strength of fingers and finger flexion. The glove was tested in the most common rehabilitation methods such as strengthening exercises and ad task specific movements.',
     methodologyImage: 'https://github.com/N-Hrikeshraj/hrikesh/blob/main/src/assets/images/IP-task-rehab-process.png?raw=True', 
-    resultImage: 'https://github.com/N-Hrikeshraj/hrikesh/blob/main/src/assets/images/IP-task-rehab-results.png?raw=True',
+    resultImage: 'https://github.com/N-Hrikeshraj/hrikesh/blob/main/src/assets/images/IP-task-rehab-results_1.png?raw=True',
     startDate: 'October 2022',
     duration: '6 months',
     status: 'Completed',
