@@ -11,8 +11,8 @@ export const projects: Project[] = [
     challenge: 'Creating a smooth, performant scrolling experience with accurate section highlighting while maintaining engaging animations and transitions. The main challenge was implementing an intuitive navigation system that works seamlessly with both scroll events and direct navigation.',
     solution: 'Implemented a custom intersection observer system using Framer Motion\'s useInView hook to track visible sections. Combined with React Router for routing and Framer Motion for animations, the site achieves smooth transitions between sections while maintaining accurate navigation state. Tailwind CSS was used for responsive styling, ensuring a consistent look across all devices.',
     outcome: 'Created a highly performant, visually appealing portfolio website with smooth animations and intuitive navigation. The site achieves perfect Lighthouse scores for performance and accessibility, with optimized assets and semantic HTML structure.',
-    /*link: 'https://example.com',
-    github: 'https://github.com/example/personal-website'*/
+    /*link: 'https://example.com',*/
+    github: 'https://github.com/N-Hrikeshraj/hrikesh'
   },
   {
     id: 'swarm-robotics',
