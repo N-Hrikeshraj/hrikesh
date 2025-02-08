@@ -41,7 +41,7 @@ const About = () => {
           <p className="text-gray-600 mb-6">
             I'm a passionate mechatronics engineer with proven expertise in developing innovative solutions, 
             with experience in automation, product design, and multidisciplinary projects. I love creating 
-            elegant solutions to complex problems and amconstantly learning new technologies.
+            elegant solutions to complex problems and am constantly learning new technologies.
           </p>
           <p className="text-gray-600">
             When I'm not working, you can find me developing personal projects,
