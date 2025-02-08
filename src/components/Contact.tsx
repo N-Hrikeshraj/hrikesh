@@ -61,7 +61,7 @@ const Contact = () => {
               </label>
               <input
                 type="text"
-                name="user_name"
+                name="name"
                 id="name"
                 className="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                 required
@@ -73,7 +73,7 @@ const Contact = () => {
               </label>
               <input
                 type="email"
-                name="user_email"
+                name="email"
                 id="email"
                 className="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                 required
