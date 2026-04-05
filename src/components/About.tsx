@@ -6,7 +6,7 @@ const About = () => {
   const skills = [
     { icon: Code2, title: 'Programming Languages', items: ['Python', 'C++',] },
     { icon: Brain, title: 'Backend Development', items: ['Python', 'PostgreSQL'] },
-    { icon: Palette, title: 'Design', items: ['Solidworks', 'KiCAD', 'UI/UX'] },
+    { icon: Palette, title: 'Design', items: ['Altium','Solidworks', 'KiCAD'] },
     { icon: Rocket, title: 'Other', items: ['Git', 'Docker', 'Linux'] },
   ];
 
@@ -40,8 +40,8 @@ const About = () => {
           <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <p className="text-gray-600 mb-6">
             I'm a passionate mechatronics engineer with proven expertise in developing innovative solutions, 
-            with experience in automation, product design, and multidisciplinary projects. I love creating 
-            elegant solutions to complex problems and amconstantly learning new technologies.
+            with experience in automation, hardware design, and multidisciplinary projects. I love creating 
+            elegant solutions to complex problems and am constantly learning new technologies.
           </p>
           <p className="text-gray-600">
             When I'm not working, you can find me developing personal projects,
