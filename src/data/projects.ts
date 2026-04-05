@@ -11,8 +11,8 @@ export const projects: Project[] = [
     challenge: 'Creating a smooth, performant scrolling experience with accurate section highlighting while maintaining engaging animations and transitions. The main challenge was implementing an intuitive navigation system that works seamlessly with both scroll events and direct navigation.',
     solution: 'Implemented a custom intersection observer system using Framer Motion\'s useInView hook to track visible sections. Combined with React Router for routing and Framer Motion for animations, the site achieves smooth transitions between sections while maintaining accurate navigation state. Tailwind CSS was used for responsive styling, ensuring a consistent look across all devices.',
     outcome: 'Created a highly performant, visually appealing portfolio website with smooth animations and intuitive navigation. The site achieves perfect Lighthouse scores for performance and accessibility, with optimized assets and semantic HTML structure.',
-    link: 'https://example.com',
-    github: 'https://github.com/example/personal-website'
+    /*link: 'https://example.com',*/
+    github: 'https://github.com/N-Hrikeshraj/hrikesh'
   },
   {
     id: 'swarm-robotics',
@@ -100,7 +100,7 @@ export const projects: Project[] = [
     solution: 'An in-depth medical literature review was done to understand current practice and developments in stroke rehabilitation. I interviewed medical professionals and stroke patients to determine points for improvement in the current rehabilitation process. A cross-reference was done to determine the target areas and project goals.',
     outcome: 'The finalised glove tracked and provided real time quantitative data regarding strength of fingers and finger flexion. The glove was tested in the most common rehabilitation methods such as strengthening exercises and ad task specific movements.',
     methodologyImage: 'https://github.com/N-Hrikeshraj/hrikesh/blob/main/src/assets/images/IP-task-rehab-process.png?raw=True', 
-    resultImage: 'https://github.com/N-Hrikeshraj/hrikesh/blob/main/src/assets/images/IP-task-rehab-results.png?raw=True',
+    resultImage: 'https://github.com/N-Hrikeshraj/hrikesh/blob/main/src/assets/images/IP-task-rehab-results_1.png?raw=True',
     startDate: 'October 2022',
     duration: '6 months',
     status: 'Completed',
